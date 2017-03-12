@@ -51,7 +51,6 @@ class App extends Component {
 
   render() {
     const { list, searchTerm } = this.state;
-    const helloWorld = 'Welcome to React';
     return (
       <div className="App">
         <form>
